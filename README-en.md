@@ -83,3 +83,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+---
+
+<a href="https://bio.link/leorodriguesdev">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/74029443?s=400&u=6805c72bfdcfef209836c10e359c1312bb1619c7&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Leonardo Rodrigues</b></sub></a> <a href="https://bio.link/leorodriguesdev" title="link leo">⚡</a>
+
+
+Made with ❤️ by Leonardo Rodrigues 👋🏽 Contact us!
+
+[![Twitter Badge](https://img.shields.io/badge/-@leorodriguesdev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/leorodriguesdev)](https://twitter.com/leorodriguesdev) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/on-leorodrigues/)](https://www.linkedin.com/in/on-leorodrigues/) 
+[![Gmail Badge](https://img.shields.io/badge/-lerodriguesoffice@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leorodriguesoffice@gmail.com)](mailto:leorodriguesoffice@gmail.com)
+<p align="left" >
+<img   alt="logoleo" src=".github/logoleo.png" width="400px; />
+</p>
