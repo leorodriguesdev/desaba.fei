@@ -1,4 +1,4 @@
-<a alt="README in english language" href="/README-en.md">Click here for README in english language <span>&nbsp;&nbsp;<img   height="20" width="20" alt="Repository List" src=".github/estados-unidos.png" /> ' <img   height="20" width="20" alt="Repository List" src=".github/reino-unido.png" /></span></a>
+<a alt="README in english language" href="/README-en.md">Click here for README in english language <span>&nbsp;&nbsp;<img height="20" width="20" alt="USA Flag" src=".github/estados-unidos.png" /> <img height="20" width="20" alt="UK Flag" src=".github/reino-unido.png" /></span></a>
 
 # 💬 desaba.fei - Sistema de Comentários Moderno
 
@@ -28,9 +28,11 @@
 
 ### 🎨 Interface Moderna
 - **Design System Consistente**: Variáveis CSS e componentes reutilizáveis
-- **Gradientes e Sombras**: Visual moderno com depth e hierarquia
-- **Estados Interativos**: Hover, focus e loading states
+- **Paleta de Cores Moderna**: Gradientes sofisticados de índigo, violeta e roxo
+- **Sombras Avançadas**: Sombras multicamadas com variantes coloridas
+- **Estados Interativos**: Hover, focus e loading states com transições suaves
 - **Feedback Visual**: Indicadores de ação e status em tempo real
+- **Efeitos Shimmer**: Animações sutis em interações do usuário
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -95,11 +97,32 @@ src/
 ## 🎨 Design System
 
 ### Cores Principais
-- **Primary**: `#667eea` - Azul principal
-- **Secondary**: `#764ba2` - Roxo secundário
-- **Success**: `#48bb78` - Verde de sucesso
-- **Warning**: `#ed8936` - Laranja de aviso
-- **Error**: `#f56565` - Vermelho de erro
+- **Primary**: `#6366f1` - Índigo moderno
+- **Primary Dark**: `#4f46e5` - Índigo escuro
+- **Primary Light**: `#8b5cf6` - Violeta
+- **Secondary**: `#a855f7` - Roxo vibrante
+- **Accent**: `#ec4899` - Rosa magenta
+
+### Cores de Status
+- **Success**: `#10b981` - Verde esmeralda
+- **Success Light**: `#34d399` - Esmeralda claro
+- **Warning**: `#f59e0b` - Âmbar
+- **Warning Light**: `#fbbf24` - Âmbar claro
+- **Error**: `#ef4444` - Vermelho coral
+- **Error Light**: `#f87171` - Coral claro
+- **Info**: `#3b82f6` - Azul
+- **Info Light**: `#60a5fa` - Azul claro
+
+### Escala de Cinza Moderna
+- **Text Primary**: `#1f2937` - Cinza escuro
+- **Text Secondary**: `#374151` - Cinza médio
+- **Text Muted**: `#6b7280` - Cinza claro
+- **Backgrounds**: De `#ffffff` a `#f3f4f6`
+
+### Gradientes
+- **Gradiente Principal**: Gradiente linear de índigo para violeta para roxo
+- **Gradiente Secundário**: Gradiente linear de magenta para laranja
+- **Gradiente de Sucesso**: Gradiente linear de esmeralda para esmeralda claro
 
 ### Tipografia
 - **Font Family**: System fonts (-apple-system, BlinkMacSystemFont, Segoe UI...)
@@ -136,7 +159,9 @@ src/
 ### Persistência
 - Salvamento automático no localStorage
 - Recuperação de dados na inicialização
-- Tratamento de erros de parsing
+- Tratamento robusto de erros de parsing
+- Validação e formatação segura de datas
+- Mecanismos de fallback para dados corrompidos
 
 ## 🎯 Casos de Uso
 
